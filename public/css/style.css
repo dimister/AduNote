@@ -1,0 +1,40 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+a {
+  color: #00B7FF;
+}
+
+
+em, i {
+    font-size: 1rem;
+    padding-right: 4px;
+}
+
+span{
+	font-size: 14px;
+}
+
+.title{
+	font-weight: 800;
+	font-size: 16px;
+}
+
+.article-label{
+	font-size: 12px;
+}
+
+.article-desc{
+	font-size: 14px;
+	text-indent: 2rem;
+}
+
+.row-own{
+	max-width: 100%;
+}
+
+.nav-sec{
+	padding: 0;
+}
